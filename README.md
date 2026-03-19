@@ -1,2 +1,3 @@
-# next-analytics-dashboard-4wg7
-Analytics dashboard for modern development workflows
+# Next Analytics Dashboard 4Wg7
+
+A analytics dashboard for modern development workflows.
